@@ -54,6 +54,39 @@ GeoBloks is an innovative project that combines geometric principles with blockc
    - Building blocks for complex transactions:
      - Libraries of machine-readable modules lay the foundation for increasingly complex transactions.
      - These modules define the entire envelope of computational legal conduct within blockchain environments.
+     - 
+     
+Here are the initial building blocks:
+
+1. **Legal Compliance Module**:
+   - This module will handle legal requirements within our smart contracts.
+   - It should include functions to verify compliance with relevant laws, regulations, and contractual terms.
+   - Consider integrating legal standards such as the **E-Sign Act** and **UETA**.
+
+2. **Transparency Module**:
+   - Transparency is crucial for trust in blockchain systems.
+   - Implement functions to:
+     - Record contract changes transparently.
+     - Provide an audit trail for all contract actions.
+     - Ensure that contract terms are visible and accessible to all parties.
+
+3. **Dispute Resolution Module**:
+   - Smart contracts should handle disputes efficiently.
+   - Create functions for:
+     - Escalating disputes to arbitration or mediation.
+     - Facilitating communication between parties.
+     - Implementing dispute resolution mechanisms.
+
+4. **Jurisdiction Module**:
+   - Address jurisdictional complexities.
+   - Include functions to:
+     - Determine the applicable legal framework based on the nodes' jurisdiction.
+     - Handle extraterritorial laws and cross-border transactions.
+
+5. **Standardization Module**:
+   - Standardize our smart contract components.
+   - Define reusable functions for common tasks (e.g., token transfers, ownership changes).
+   - Ensure consistency across contracts.
 
 ## Getting Started
 
