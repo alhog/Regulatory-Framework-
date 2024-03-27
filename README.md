@@ -227,7 +227,6 @@ Ensure consistency across different contracts.
    - Define reusable functions for common tasks (e.g., token transfers, ownership changes).
    - Ensure consistency across contracts.
 
-Certainly! Let's revisit the **Standardization Module** for our GeoBloks smart contracts. Standardization ensures consistency and efficiency across different contract components. Here's a more detailed exploration:
 
 ## Standardization Module
 
