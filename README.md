@@ -58,8 +58,6 @@ GeoBloks is an innovative project that combines geometric principles with blockc
      
 *Here are the initial building blocks:*
 
-Certainly! Let's revisit the **Legal Compliance Module** for our GeoBloks smart contracts. Legal compliance is crucial to ensure that our contracts adhere to relevant laws and regulations. Here's a more detailed exploration:
-
 ## Legal Compliance Module
 
 ### 1. **Electronic Signatures and Validity Checks**:
