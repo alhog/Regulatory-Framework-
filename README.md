@@ -188,7 +188,6 @@ Ensure consistency across different contracts.
   - Design mechanisms to execute the agreed-upon outcomes.
 
 *The Dispute Resolution Module will play a critical role in maintaining trust and resolving conflicts within our GeoBloks ecosystem. As we refine our system, we'll continue enhancing dispute resolution features.*
-
      
 
 4. **Jurisdiction Module**:
@@ -196,6 +195,32 @@ Ensure consistency across different contracts.
    - Include functions to:
      - Determine the applicable legal framework based on the nodes' jurisdiction.
      - Handle extraterritorial laws and cross-border transactions.
+
+## Jurisdiction Module
+
+### 1. **Node Jurisdiction and Legal Framework**:
+
+- **Determine Node Location**:
+  - Identify the jurisdiction where the nodes hosting our GeoBloks operate.
+  - Understand the legal framework specific to that jurisdiction.
+
+- **Applicable Laws**:
+  - Research relevant laws, including:
+    - **Contract Law**: How contracts are formed, interpreted, and enforced.
+    - **Blockchain-Specific Regulations**: Any laws addressing blockchain technology, smart contracts, and cryptocurrencies.
+
+### 2. **Extraterritorial Laws and Countermeasures**:
+
+- **Extraterritoriality**:
+  - Understand the impact of extraterritorial laws (such as those enacted by the United States) on our system.
+  - Consider how these laws affect cross-border transactions.
+
+- **Jurisdictional Countermeasures**:
+  - Explore measures taken by other states to nullify or counteract extraterritorial laws.
+  - Examples include **blocking statutes** and **claw-back statutes**.
+
+*The Jurisdiction Module helps us navigate legal complexities and ensures that our GeoBloks smart contracts comply with relevant laws. As we refine our system, we'll continue enhancing this module.*
+
 
 5. **Standardization Module**:
    - Standardize our smart contract components.
